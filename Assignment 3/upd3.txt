@@ -1,0 +1,6 @@
+Brazil;POP=193,364,111
+Indonesia;POP=260,581,345
+Colombia; AREA=1,090,909
+Italy; P=59,801,999
+Canada;CON=North America
+Egypt;AREA=1,000,000 ; POP=93,384,001
